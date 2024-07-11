@@ -24,10 +24,10 @@ if(isset($message)){
 
    <section class="flex">
 
-      <a href="home.php" class="logo">YAZAKI<span> Store</span></a>
+      <a href="index.php" class="logo">YAZAKI<span> Store</span></a>
 
       <nav class="navbar">
-         <a href="home.php">Home</a>
+         <a href="index.php">Home</a>
          <a href="shop.php">Shop</a>
          <a href="orders.php">Orders</a>
          <a href="about.php">About</a>
